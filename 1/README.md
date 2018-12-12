@@ -8,6 +8,7 @@ languages:
 technologies:
 - advanced-threat-analytics
 ci:
+- path: /DotNetSample
 - template: dot_net_core
 ---
 
