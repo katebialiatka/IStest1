@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Yury_Klyshevich\\.nuget\\packages\\": {},
+    "C:\\Users\\Mikhail_Melnikov\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Yury\\Smp\\test1\\IStest1\\DotNetSample\\DotNetSample.csproj",
+      "projectUniqueName": "C:\\_Projects\\TestRepository2\\DotNetSample\\DotNetSample\\DotNetSample.csproj",
       "projectName": "DotNetSample",
-      "projectPath": "C:\\Yury\\Smp\\test1\\IStest1\\DotNetSample\\DotNetSample.csproj",
-      "packagesPath": "C:\\Users\\Yury_Klyshevich\\.nuget\\packages\\",
-      "outputPath": "C:\\Yury\\Smp\\test1\\IStest1\\DotNetSample\\obj\\",
+      "projectPath": "C:\\_Projects\\TestRepository2\\DotNetSample\\DotNetSample\\DotNetSample.csproj",
+      "packagesPath": "C:\\Users\\Mikhail_Melnikov\\.nuget\\packages\\",
+      "outputPath": "C:\\_Projects\\TestRepository2\\DotNetSample\\DotNetSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Yury_Klyshevich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mikhail_Melnikov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -688,7 +688,10 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\ProgramData\\chocolatey\\lib\\Prig\\tools": {},
+        "http://nuget.episerver.com/feed/packages.svc/": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://ceapex.pkgs.visualstudio.com/_packaging/VendorProjects/nuget/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
